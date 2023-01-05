@@ -43,10 +43,10 @@ ul li:nth-child(even) {
 
 ul li:nth-child(odd):hover {
     transform: perspective(200px) rotateY(45deg);
-    padding-left: 5%;
+    padding-left: 3%;
 }
 
 ul li:nth-child(even):hover {
     transform: perspective(200px)rotateY(-45deg);
-    padding: 5%;
+    padding: 2%;
 }
